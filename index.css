@@ -1,0 +1,52 @@
+body {
+  text-align: center;
+}
+.create-form {
+  font-size: larger;
+  font-weight: 200;
+  font-weight: bold;
+  border-radius: 3px;
+}
+#first-name {
+  border: 1px solid grey;
+  padding: 3px 6px;
+  font-weight: bold;
+  border-radius: 3px;
+}
+#last-name {
+  border: 1px solid grey;
+  padding: 3px 6px;
+  font-weight: bold;
+  border-radius: 3px;
+}
+#email {
+  border: 1px solid grey;
+  padding: 3px 6px;
+  font-weight: bold;
+  border-radius: 3px;
+}
+#create-butn {
+  border: 1px solid grey;
+  padding: 3px 6px;
+  border-radius: 3px;
+  background-color: rgb(49, 47, 47);
+  color: white;
+}
+#create-butn:hover {
+  background-color: rgb(78, 204, 53);
+  color: black;
+}
+
+.register-table {
+  margin: 20px 30%;
+  /* background-color: rgb(214, 207, 207); */
+}
+th {
+  border-bottom: 2px solid black;
+}
+
+tr,
+td {
+  padding: 10px;
+  border-bottom: 1px solid rgb(83, 82, 82);
+}
